@@ -1,0 +1,6 @@
+{
+  "name": "HabitHero",
+  "description": "Gamified Habit Tracker with AI Coach, XP Leveling, Streak Analytics, and Badges",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
